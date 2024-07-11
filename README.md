@@ -32,16 +32,15 @@ But don't worry, there's still some fun stuff to explore! Dive in and enjoy the 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-EA2846?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=EA2846)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&labelColor=black&logo=typeorm&logoColor=FE0902)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-699ECA?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=699ECA)
+![.NET](https://img.shields.io/badge/.NET-B9AAEE?style=for-the-badge&labelColor=black&logo=.net&logoColor=B9AAEE)
 
 ### Structure and Layout
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### Development
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)
+![Markdown](https://img.shields.io/badge/Markdown-329EE5?style=for-the-badge&labelColor=black&logo=markdown&logoColor=329EE5)
 
 <br />
 
