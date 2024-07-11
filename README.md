@@ -48,21 +48,18 @@ But don't worry, there's still some fun stuff to explore! Dive in and enjoy the 
 
 <!-- ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=spedroq&show_icons=true&hide=stars&theme=tokyonight&border_color=7F3FBF) -->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=spedroq)](https://git.io/streak-stats)-->
-<a>
-  <a href="https://github.com/spedroq">
-    <img alt="Pedro's Top Languages" 
-      src="https://github-readme-stats.vercel.app/api?username=spedroq&show_icons=true&hide=stars&theme=tokyonight&border_color=7F3FBF"
-      height="192px" width="49.5%"
-      />
-  </a>
-  <a>
-    
-  </a>
-  <a href="https://github.com/spedroq">
-    <img alt="Pedro's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=spedroq&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-      height="192px" width="49.5%"
-      />
-  </a>
-</a>
+
+ <a href="https://github.com/spedroq">
+   <img alt="Pedro's Top Languages" 
+     src="https://github-readme-stats.vercel.app/api?username=spedroq&show_icons=true&hide=stars&theme=tokyonight&border_color=7F3FBF"
+     height="192px" width="49.5%"
+     />
+ </a>
+  
+ <a href="https://github.com/spedroq">
+   <img alt="Pedro's Top Languages" 
+     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=spedroq&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+     height="192px" width="49.5%"
+     />
+ </a>
 <br/>
