@@ -34,7 +34,7 @@ But don't worry, there's still some fun stuff to explore! Dive in and enjoy the 
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&labelColor=black&logo=typeorm&logoColor=FE0902)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-699ECA?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=699ECA)
-![.NET](https://img.shields.io/badge/.NET-B9AAEE?style=for-the-badge&labelColor=black&logo=.net&logoColor=B9AAEE)
+![.NET](https://img.shields.io/badge/.NET-866CDD?style=for-the-badge&labelColor=black&logo=.net&logoColor=866CDD)
 
 ### Structure and Layout
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
