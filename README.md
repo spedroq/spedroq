@@ -50,7 +50,7 @@ But don't worry, there's still some fun stuff to explore! Dive in and enjoy the 
 
  <a href="https://github.com/spedroq">
    <img alt="Pedro's Top Languages" 
-     src="https://github-readme-stats.vercel.app/api?username=spedroq&show_icons=true&hide=stars&theme=tokyonight&border_color=7F3FBF"
+     src="https://github-readme-stats.vercel.app/api?username=spedroq&show_icons=true&theme=tokyonight&border_color=7F3FBF"
      height="192px" width="49.5%"
      />
  </a>
