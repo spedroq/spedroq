@@ -19,8 +19,8 @@ But don't worry, there's still some fun stuff to explore! Dive in and enjoy the 
 
 ## What I've been working with
 ### Languages
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Python-326B9B?style=for-the-badge&labelColor=black&logo=python&logoColor=326B9B)
 ![C#](https://img.shields.io/badge/C%23-866CDD?style=for-the-badge&labelColor=black&logo=c&logoColor=866CDD)
 
